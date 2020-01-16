@@ -1,0 +1,8 @@
+http:
+    multipart:
+      max-file-size: -1
+      max-request-size: -1
+      
+logging:
+  level:
+    com.himadri: DEBUG
